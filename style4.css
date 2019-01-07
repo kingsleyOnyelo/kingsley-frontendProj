@@ -1,0 +1,16 @@
+img{
+   width: 300px;
+   float: right; 
+}
+
+
+img[alt="nice"]{
+    height: 400px;
+}
+
+#picture{
+    display: none;
+}
+.img12{
+    
+}
